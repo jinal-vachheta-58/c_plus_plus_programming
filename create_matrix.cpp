@@ -47,3 +47,18 @@ int main()
 	matrix(a,b);
 	return 0;
 }
+
+
+/*
+output:-
+Enter size of matrix : 3 4
+Enter 3 by 4 matrix elements one by one
+1 2 3 4
+2 3 4 5
+3 4 5 6
+The given matrix is :
+
+1 2 3 4
+2 3 4 5
+3 4 5 6
+*/
